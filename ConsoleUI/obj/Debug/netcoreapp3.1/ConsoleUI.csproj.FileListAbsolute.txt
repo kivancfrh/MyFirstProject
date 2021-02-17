@@ -1,0 +1,180 @@
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

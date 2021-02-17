@@ -1,0 +1,13 @@
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.exe
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.deps.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.runtimeconfig.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.runtimeconfig.dev.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\bin\Debug\netcoreapp3.1\LinqOperations.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.csprojAssemblyReference.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.AssemblyInfoInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.AssemblyInfo.cs
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\LinqOperations\obj\Debug\netcoreapp3.1\LinqOperations.genruntimeconfig.cache

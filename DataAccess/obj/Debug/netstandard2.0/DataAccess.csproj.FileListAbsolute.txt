@@ -1,0 +1,36 @@
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

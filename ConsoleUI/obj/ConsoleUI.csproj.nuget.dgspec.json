@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\ConsoleUI\\ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Sonar Reklam\\.nuget\\packages\\",
+        "outputPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sonar Reklam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj"
+              },
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\ConsoleUI\\ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\ConsoleUI\\ConsoleUI.csproj",
+        "packagesPath": "C:\\Users\\Sonar Reklam\\.nuget\\packages\\",
+        "outputPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\ConsoleUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sonar Reklam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\Business.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Business\\Business.csproj"
+              },
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj"
+              },
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Sonar Reklam\\.nuget\\packages\\",
+        "outputPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sonar Reklam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Sonar Reklam\\.nuget\\packages\\",
+        "outputPath": "F:\\EGITIM\\Yazılım\\C#\\GitHub\\MyFirstProject\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sonar Reklam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

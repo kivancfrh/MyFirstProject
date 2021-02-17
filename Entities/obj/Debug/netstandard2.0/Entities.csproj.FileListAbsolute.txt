@@ -1,0 +1,27 @@
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

@@ -1,0 +1,42 @@
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Sonar Reklam\source\repos\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.dll
+F:\EGITIM\Yazılım\C#\YazilimciGelistirmeKampi\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\Business.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.dll
+F:\EGITIM\Yazılım\C#\GitHub\MyFirstProject\Business\obj\Debug\netstandard2.0\Business.pdb
